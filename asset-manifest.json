@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/burndown-chart/static/css/main.e6c13ad2.css",
-    "main.js": "/burndown-chart/static/js/main.4e08ea27.js",
+    "main.js": "/burndown-chart/static/js/main.bd8f44ad.js",
     "static/js/453.a8a679b5.chunk.js": "/burndown-chart/static/js/453.a8a679b5.chunk.js",
     "index.html": "/burndown-chart/index.html",
     "main.e6c13ad2.css.map": "/burndown-chart/static/css/main.e6c13ad2.css.map",
-    "main.4e08ea27.js.map": "/burndown-chart/static/js/main.4e08ea27.js.map",
+    "main.bd8f44ad.js.map": "/burndown-chart/static/js/main.bd8f44ad.js.map",
     "453.a8a679b5.chunk.js.map": "/burndown-chart/static/js/453.a8a679b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4e08ea27.js"
+    "static/js/main.bd8f44ad.js"
   ]
 }
